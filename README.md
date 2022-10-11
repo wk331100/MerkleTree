@@ -1,6 +1,6 @@
 # MerkleTree
 
-一款使用Golang实现的默克尔树
+一款简单的基于Golang实现的默克尔树
 
 ```
 func TestMerkleTree(t *testing.T) {
