@@ -5,6 +5,11 @@
 ## 作用
 可以通过默克尔树根Hash或者节点Hash，快速验证数据的一致性。
 
+## 使用方式
+```
+go get github.com/wk331100/MerkleTree
+```
+
 ## 外部调用方法
 - NewMerkleTree()	// 新建一个默克尔树
 - mk.VerifyTree		// 验证一个默克尔树是否完整
